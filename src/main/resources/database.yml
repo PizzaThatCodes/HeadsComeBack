@@ -1,0 +1,9 @@
+## This is the database that you want to use
+schemas:
+  headscomeback-items:
+    type: sqlite # This is the type of database you want to use (mysql, sqlite)
+    host: localhost
+    port: 3306
+    database: headscomeback
+    username: root
+    password: password

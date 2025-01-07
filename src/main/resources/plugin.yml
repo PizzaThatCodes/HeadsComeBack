@@ -1,0 +1,4 @@
+name: HeadsComeBack
+version: '${project.version}'
+main: me.pizzalover.headscomeback.Main
+api-version: '1.20'
